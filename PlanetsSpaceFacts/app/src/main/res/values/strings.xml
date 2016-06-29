@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Planets Space Facts</string>
+    <string name="my_tb_title">Planets Space Facts</string>
+
+    <string-array name="descriptions">
+        <item>
+            \u2022Mercury is the closest planet to our sun.\n\n
+            \u2022Mercury the planet is super fast,too. It zips around the sun every 88 days-faster than any other planet.\n\n
+            \u2022Mercury is the smallest planet in our solar system. There are dwarf planets that are similar. If Earth was a baseball, Mercury would be a golf ball.\n\n
+            \u2022Mercury is not as hot as you might think. Venus is actually hotter.\n\n
+            \u2022The temperature on Mercury can change more than 530 degree celsius between night and day.\n\n
+            \u2022There is no water on Mercury. But there might be a little ice in deep craters.\n\n
+            \u2022You would need very special spacesuit to visit Mercury.\n\n
+            \u2022Mercury has a very low surface gravity.\n\n
+            \u2022The surface of Mercury is very similar to our moon.\n\n
+            \u2022Mercury has no atmosphere which means there is no wind or weather to speak of.
+        </item>
+        <item>
+            \u2022Venus is fascinating planet that is similar in size to Earth but very different in regards to atmosphere and surface conditions.\n\n
+            \u2022Its thick clouds lock in the heat while the surface rages with active volcanoes.\n\n
+            \u2022The atmosphere of Venus made up mainly of carbon dioxide.\n\n
+            \u2022Its size is slightly smaller than Earth.\n\n
+            \u2022It also features gravity similar to that of Earth.\n\n
+            \u2022Venus is surrounded by clouds consisting of mercury,ferric chloride hydrocarbons and sulphuric acid.\n\n
+            \u2022These clouds create the most corrosive acid rain found anywhere in our solar system.\n\n
+            \u2022The clouds are so thick that little light even reaches the surface.\n\n
+            \u2022The light that does reach the surface is converted to heat and can not escape the atmosphere making Venus the hottest planet at around 500 Degree Celsius.\n\n
+            \u2022The surface of Venus is often described as a "stormy desert" full of many craters and very active volcanoes.\n\n
+            \u2022The surface is also likened to molten lead.\n\n
+            \u2022Venus features no liquid water.
+        </item>
+        <item>
+            \u2022Earth is the third planet from the sun, and the densest and fifth-largest of the eight planets in the solar system.\n\n
+            \u2022It is also the largest of the Solar System\'s four terrestrial planets.\n\n
+            \u2022It is sometimes referred to as the world or the Blue Planet.\n\n
+            \u2022Earth formed approximately 4.54 billion years ago, and life appeared on its surface within its first billion years.\n\n
+            \u2022Earth\'s lithosphere is divided into several rigid segments, or tectonic plates, that migrate across the surface over period of many millions of years.\n\n
+            \u2022About 71% of the surface is covered by salt water oceans.\n\n
+            \u2022The reminder consisting of continents and islands.\n\n
+            \u2022Magma is the hot liquid rock under the surface of the Earth,it is known as lava after it comes out a volcano.\n\n
+            \u2022Natural gas doesn\'t have an odour,strong smells are added to it by humans so it can be detected when there are leaks.\n\n
+            \u2022Hawaii is moving towards japan at the speed of 10cm a year.This is because they are on different tectonic plates.\n\n
+            \u2022The worlds largest desert is the sahara,it covers about one third of africa.\n\n
+            \u2022Stretching out to an impressive length of 6696 kilometers long,the Nile river is the longest river on earth.\n\n
+            \u2022The volcanic rock known as pumice is the only rock that can float in water.\n\n
+            \u2022Mt Everest is the highest mountain on earth,its peak reaches 8,848 meters above sea level.\n\n
+            \u2022The Earth isn\'t perfectly round,it is slightly flattened at the north and south poles.\n\n
+            \u2022Scientists have dated the Earth as being 4 and 5 billion years old.
+        </item>
+        <item>
+            \u2022Mars or the RedPlanet as it is sometimes known has a dusty,rocky surface and a thin atmosphere.\n\n
+            \u2022Its relatively calm conditions and close proximity to earth makre it the most likely destination for future planet exploration by humans.\n\n
+            \u2022It has already been visited by a number of mars rovers in successful robotic missions.\n\n
+            \u2022These highly advanced robots gather samples and record important scientific data for scientists back on Earth to study.\n\n
+            \u2022Mars is nicknamed the red planet because it is covered with rust-like dust.\n\n
+            \u2022Even the atmosphere is a pinkish red,colored by tiny particles of dust storms which continually change its surface.\n\n
+            \u2022Mars has many massive volcanoes and is home to Olympus Mons,the largest volcano in our solar system,it stands 21km high and is 600km across the base.\n\n
+            \u2022Mars has a very thin atmosphere made mostly of carbon dioxide.\n\n
+            \u2022It is not thick enough to trap the sun\'s heat like Venus,so the planet is very cold.\n\n
+            \u2022Temperatures ranges from -120 Degrees Celsius on winter nights to 25-Degrees Celsius in the summer.\n\n
+            \u2022Mars has many channels,plains and canyons on the surface which could have been caused by water erosion in the past.\n\n
+            \u2022Mars has very weak gravity which cannot hold on to the atmosphere well.\n\n
+            \u2022The polar ice caps consist of frozen Co2(dry uce)which lies over layer of ice.
+        </item>
+        <item>
+            \u2022Jupiter is the largest planet in our solar system.\n\n
+            \u2022Its famous "Red Spot" and raging gas storms give it an impressive if not intimating appearance.\n\n
+            \u2022As well as having many moons,Jupiter also has a number of rings similar to that of saturn but much less noticeable.\n\n
+            \u2022Jupiter is the largest planet in our solar system.\n\n
+            \u2022It is so big that more than 1300 Earths could fit inside it.\n\n
+            \u2022Thick ,colorful clouds of deadly poisonous gases surround Jupiter.\n\n
+            \u2022The quick spinning of the planet whips up the atmosphere,creating the bands around the planet.\n\n
+            \u2022If you were to descend into Jupiter,the thin,cold atmosphere becomes thicker and hotter,gradually turning into a thick dark fog.\n\n
+            \u2022In the blackness about 1000km down the pressure squeezes the atmosphere so hard that it becomes like liquid.\n\n
+            \u2022At the center of Jupiter is a rocky core,slightly bigger than Earth but weighing about 20 times more.\n\n
+            \u2022Surrounding the core is an ocean of liquid hydrogen,about 1,000 kilometers deep.\n\n
+            \u2022Jupiter has many storms raging on the surface, most notably the big red spot which is the largest hurricane in our solar system.\n\n
+            \u2022Its been raging for over three hundred years.\n\n
+            \u2022Jupiter has a very strong magnetic field,you would weigh two and a half times as much as you would on Earth.\n\n
+            \u2022Jupiter has many moons circling around it.\n\n
+            \u2022Four of these moons are bigger than pluto.
+        </item>
+        <item>
+            \u2022The most beautiful planet in our solar system due to its spectacular ring system.\n\n
+            \u2022Saturn is a gas giant that features many extreme physical features and atmospheric conditions.\n\n
+            \u2022Saturn is the second largest planet in our solar system and is another gas giant.\n\n
+            \u2022Saturn has a small rocky core covered with liquid gas.\n\n
+            \u2022It is surrounded by a system of rings that stretch out into space for thousands of kilometers.\n\n
+            \u2022The rings are made up of millions of ice crystals,some as big as houses and others as small as specks of dust.\n\n
+            \u2022Saturn is very light as it is made up of more hydrogen than helium so it is less dense.\n\n
+            \u2022If we could fit Saturn into a bathtub it would float.\n\n
+            \u2022Like Jupiter,saturn has many moons which surround it.\n\n
+            \u2022Saturn is not a peaceful planet.\n\n
+            \u2022Storm winds race around atmosphere 800kmp/h.\n\n
+            \u2022Saturn has a very strong magnetic field which traps a energy particles resulting in high levels of radiation.\n\n
+        </item>
+        <item>
+            \u2022Uranus likes to be a bit different.\n\n
+            \u2022It shows off a majestic blue/green haze due to its high levels of methane gas.\n\n
+            \u2022Rolls like a barrel rather than spinning like Earth.\n\n
+            \u2022Uranus spins lying on its side,this is perhaps due to a large collision early in its formation.\n\n
+            \u2022Uranus was the first planet discovered by telescope.\n\n
+            \u2022Since Uranus takes 84 Earth years to go around the sun, this means that each of its poles is in daylight for 42 years and in darkness for the next 42.\n\n
+            \u2022Uranus\'s atmosphere is mostly hydrogen but it also contains large amounts of a gas called methane.\n\n
+            \u2022Methane absorbs red light and scatters blue light so a blue-green methane haze hides the interior of the planet from view.\n\n
+            \u2022Uranus hides its interior but scientists guess that under the hydrogen-methane atmosphere is a hot,slushy ocean of water,ammonia and methane thousands of miles deep wrapped around a rocky core.
+        </item>
+        <item>
+            \u2022Neptune is a large planet that experiences extreme atmospheric weather conditions.\n\n
+            \u2022After the demotion of Pluto,it now holds the distinction of being further away from the sun than any other planet in our solar system.\n\n
+            \u2022Neptune is a large planet,nearly four times the size of Earth.\n\n
+            \u2022Neptune suffers the most violent weather in our solar system.\n\n
+            \u2022Storms have been spotted swirling around its surface and freezing winds that blow about ten times faster than hurricanes on Earth make it the windiest planet.\n\n
+            \u2022Neptune is a large,water planet with a blue hydrogen-methane atmosphere and faint rings.\n\n
+            \u2022Neptune is covered in thin wispy white clouds which stretch out around the planet.
+        </item>
+        <item>
+            \u2022Don\'t forget pluto sure it may not be officially recognized as a planet anymore.\n\n
+            \u2022But it\'s still there and offers a lot of interesting facts and cool information.\n\n
+            \u2022Pluto was the smallest and furthest planet from the sum in our solar system.\n\n
+            \u2022In 2006 pluto was demoted to the status of dwarf planet.\n\n
+            \u2022Because it is so far away from the sun it is very cold with temperatures ranging from -235 Degrees Celsius to -210 Degrees Celsius.\n\n
+            \u2022Pluto consists of rock with a very thick coating of ice.\n\n
+            \u2022The atmosphere of pluto consists of nitrogen with some carbon monoxide and methane.
+        </item>
+    </string-array>
+</resources>
