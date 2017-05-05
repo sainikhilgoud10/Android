@@ -1,2 +1,2 @@
-# Explore-the-Space
-This is an Android Project where the users can get the knowledge about the planets in our solar system.
+# Android projects
+1.PlantesSpaceFacts----Education----info about planets
